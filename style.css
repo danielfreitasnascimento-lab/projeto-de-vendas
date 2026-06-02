@@ -122,7 +122,6 @@ footer textarea {
     border-radius: 4px;
 }
 
-MURILO PINHEIRO CESCON • 20 de mai.
 * {
     margin: 0;
     padding: 0;
@@ -169,7 +168,7 @@ button {
     background-color: #2a7ae4;
     color: white;
     padding: 80px 8%;
-    background-image: url("/src/Design\ sem\ nome.png");
+    background-image: url("src/Design\ sem\ nome.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
